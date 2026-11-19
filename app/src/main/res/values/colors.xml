@@ -1,0 +1,8 @@
+<resources>
+    <color name="primary">#8A4B62</color>
+    <color name="primary_dark">#542A3B</color>
+    <color name="page">#FFF6F1</color>
+    <color name="surface">#FFFBF8</color>
+    <color name="soft_accent">#F7DFD8</color>
+    <color name="ink">#542A3B</color>
+</resources>
